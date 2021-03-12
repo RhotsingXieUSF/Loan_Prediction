@@ -10,3 +10,6 @@ There have been many success stories of start-ups receiving SBA loan guarantees 
 
 ### Content
 Shape of the data: 899164 rows and 27 columns
+
+### Link to test the notebook
+https://deepnote.com/project/7aefa024-33a8-4c84-8908-6feeb42b40e7
